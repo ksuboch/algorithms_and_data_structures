@@ -1,6 +1,6 @@
 # Summary
 
 * [Оглавление](README.md)
-* [Введение](chapter1.md)
 * Цели
+* [Введение](chapter1.md)
 
