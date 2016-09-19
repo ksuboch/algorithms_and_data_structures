@@ -1,5 +1,5 @@
 # Summary
 
 * [Оглавление](README.md)
-* [First Chapter](chapter1.md)
+* [Введение](chapter1.md)
 
